@@ -6,5 +6,6 @@ public class Main {
          * hello chencc
          */
         String user_name = "chencc";
+        //模拟代码被修改，使用idea提交代码至GitHub
     }
 }
